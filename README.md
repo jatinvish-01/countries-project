@@ -1,43 +1,32 @@
-# 🌍 Global Socio-Economic Analysis: Country Insights & Democracy Trends
+## 🌍 Case Study 3: Global Socio-Economic Trends
+**Focus:** Exploratory Data Analysis (EDA) & Geopolitics
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
-![Data-Wrangling](https://img.shields.io/badge/Focus-Global%20Metrics-red)
+![EDA](https://img.shields.io/badge/EDA-Geopolitics-red)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 
-## 📖 Project Overview
-This project involves a comprehensive exploratory data analysis (EDA) of a global dataset containing **194 countries** and **64 unique socio-economic variables**. The analysis focuses on demographic distribution, political leadership, and the ranking of nations based on democratic performance and geographic regions.
+### 📖 Overview
+An analysis of 194 countries across 64 unique variables. This project focuses on identifying global leaders in democracy, population, and economic metrics.
 
-> **Objective:** To leverage Python for extracting key geopolitical insights, such as identifying the most populous nations, mapping regional demographics, and analyzing the "Republic" naming convention across global territories.
-
----
-
-## 🛠️ Tools & Technologies
-* **Language:** Python
-* **Libraries:** Pandas, NumPy
-* **Environment:** Jupyter Notebook
-* **Dataset:** `Countries.csv` (covering 64 columns including GDP, Population, Democracy Scores, and Land Area)
+* **Key Skills:** Multi-column sorting, Regional grouping, Boolean masking.
+* **Highlight:** Identified socio-economic leaders per continent and analyzed naming conventions for "Republic" nations.
+* **Tools:** Python, Pandas.
 
 ---
 
-## 🚀 Key Features
-* **Demographic Profiling:** Automated identification of population extremes (e.g., India as the most populous, Tuvalu as the least).
-* **Political Leadership Mapping:** Linked leadership data with demographic metrics to identify key figures in major nations (e.g., Xi Jinping for the 2nd most populous country).
-* **Democratic Performance Ranking:** Multi-column sorting to isolate top-tier democratic nations like Norway, Iceland, and Sweden.
-* **Custom Text Processing:** Built specialized functions to count and categorize countries based on specific naming conventions within their official long-form titles.
-* **Regional Sub-setting:** Created isolated data structures for deep-dives into specific continents, such as identifying Nigeria as the population leader in the Africa region.
+## 🛠️ Global Technical Stack
+* **Languages:** Python (3.8+)
+* **Libraries:** Pandas, NumPy, OpenPyXL, Matplotlib, Seaborn, Dateutil
+* **Environment:** Jupyter Notebook / VS Code
 
 ---
 
-## 🏗️ Project Structure
-```text
-├── data/
-│   └── Countries.csv         # Comprehensive global dataset
-├── notebooks/
-│   └── main.ipynb            # Data cleaning, EDA, and insight extraction
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+## 🤝 Conclusion
+These projects demonstrate my proficiency in the **Data Wrangling** lifecycle—from the initial "messy" CSV to the final "insightful" visualization. I specialize in turning complex data problems into clean, structured solutions.
+
+**Let's Connect!**
+[LinkedIn](https://www.linkedin.com/in/jatin-vishwakarma-682610333/) | [Email Me](vishwakarmajatin084.com)
+
+⭐ If you found these projects helpful, consider giving this repository a star!
 
 ---
-
-⭐ If you found this project helpful, consider giving it a star!
+*Created by [Jatin Vishwakarma]*
