@@ -37,3 +37,7 @@ This project involves a comprehensive exploratory data analysis (EDA) of a globa
 │   └── main.ipynb            # Data cleaning, EDA, and insight extraction
 ├── README.md                 # Project documentation
 └── requirements.txt          # Python dependencies
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
